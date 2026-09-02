@@ -6,10 +6,6 @@ A collection of JavaScript practice tasks and exercises created as part of Assig
 
 🔗 Live Website:(https://github.com/tanvirahmedmahin10/Assignment-2-Javascript)
 
-If GitHub Pages is enabled, add your GitHub Pages URL above.
-
-📸 Screenshot
-<!-- Add your project screenshot here -->
 
 🛠️ Technologies Used
 HTML5
