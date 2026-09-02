@@ -4,9 +4,6 @@ A collection of JavaScript practice tasks and exercises created as part of Assig
 
 🚀 Live Demo
 
-🔗 Live Website:(https://github.com/tanvirahmedmahin10/Assignment-2-Javascript)
-
-
 🛠️ Technologies Used
 HTML5
 JavaScript (ES6+)
@@ -62,9 +59,8 @@ If you are using Visual Studio Code, you can use the Live Server extension to ru
 
 🔗 Relevant Links
 GitHub Repository: https://github.com/tanvirahmedmahin10/Assignment-2-Javascript
-Live Demo: Add your live demo link here
-Portfolio: Add your portfolio link here
-LinkedIn: Add your LinkedIn profile link here
+
+LinkedIn: https://www.linkedin.com/in/tanvir-ahmed-mahin-720255289/
 👨‍💻 Author
 
 Tanvir Ahmed Mahin
