@@ -2,6 +2,9 @@ Assignment 2 - JavaScript
 
 A collection of JavaScript practice tasks and exercises created as part of Assignment 2. This repository contains several JavaScript files demonstrating fundamental programming concepts, problem-solving techniques, functions, variables, conditions, loops, and other core JavaScript concepts.
 
+Here’s a preview of the Code of the Assignment
+
+<p align="center"> <img src="./Javascript.png" alt="javascript" width="100%"> </p>
 
 🛠️ Technologies Used
 HTML5
