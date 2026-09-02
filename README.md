@@ -4,7 +4,7 @@ A collection of JavaScript practice tasks and exercises created as part of Assig
 
 🚀 Live Demo
 
-🔗 Live Website: [Add your live project link here]
+🔗 Live Website: [[Add your live project link here]](https://github.com/tanvirahmedmahin10/Assignment-2-Javascript)
 
 If GitHub Pages is enabled, add your GitHub Pages URL above.
 
